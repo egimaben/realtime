@@ -19,7 +19,7 @@ public class MainActivity extends ListActivity {
 		setListAdapter(adapter);
 		//initialize you cloudboost app, the first parameter is app id 
 		//and the second is the client key. please replace accordingly
-		CloudApp.init("bengi123", "mLiJB380x9fhPRCjCGmGRg==");
+		CloudApp.init("xxxx", "xxxxxxxx==");
 		try {
 			//start listening to "created" events on REAL_TIME table. the other 
 			//2 types of events are "updated" and "deleted"
