@@ -228,13 +228,14 @@ Compare your code with the original sources downloadable from this page. With ev
 
 If this screen gets loaded, that means all went well.
 Login to your cloudboost dashboard and create a record in the <span class="tut-snippet">REAL_TIME</span> table
-
+<p>&nbsp;</p>
 <img class="full-length-img" alt="Your CloudBoost Dashboard" src="https://blog.cloudboost.io/content/images/2016/03/dashboardcreate.PNG">
-
+<p>&nbsp;</p>
 After saving that record, you can take a look at your emulator screen
+<p>&nbsp;</p>
 <img class="center-img" alt="App" src="https://blog.cloudboost.io/content/images/2016/03/emulatorconfirm.png">
 Voila, that is it for our small demo of real time functionality.
-
+[full source code](https://github.com/egimaben/realtime)
 
 
 
