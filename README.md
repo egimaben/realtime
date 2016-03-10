@@ -191,7 +191,7 @@ public class MainActivity extends ListActivity {
 		setListAdapter(adapter);
 		//initialize you cloudboost app, the first parameter is app id 
 		//and the second is the client key. please replace accordingly
-		CloudApp.init("bengi123", "mLiJB380x9fhPRCjCGmGRg==");
+		CloudApp.init("xxxxxxx", "xxxxxxxxxxxxxxxxxxxxxxx");
 		try {
 			//start listening to "created" events on REAL_TIME table. the other 
 			//2 othertypes of events are "updated" and "deleted"
@@ -234,6 +234,7 @@ Login to your cloudboost dashboard and create a record in the <span class="tut-s
 After saving that record, you can take a look at your emulator screen
 <p>&nbsp;</p>
 <img class="center-img" alt="App" src="https://blog.cloudboost.io/content/images/2016/03/emulatorconfirm.png">
+<p>&nbsp;</p>
 Voila, that is it for our small demo of real time functionality.
 [full source code](https://github.com/egimaben/realtime)
 
